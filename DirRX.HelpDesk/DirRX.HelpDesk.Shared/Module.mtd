@@ -36,6 +36,22 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "e9e2d17e-4c46-4d31-84b1-f4f6c14e99a2",
+      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "401798e1-f204-4e84-963c-e436592efcb5",
+      "PreviousItemId": "e9e2d17e-4c46-4d31-84b1-f4f6c14e99a2"
+    },
+    {
+      "ItemId": "99c2e587-d3eb-4b57-800c-33d06eacf4f6",
+      "PreviousItemId": "401798e1-f204-4e84-963c-e436592efcb5"
+    },
+    {
+      "ItemId": "77923aa8-8f3a-42ef-bee1-b424f69a404f",
+      "PreviousItemId": "99c2e587-d3eb-4b57-800c-33d06eacf4f6"
     }
   ],
   "Importance": "Medium",
