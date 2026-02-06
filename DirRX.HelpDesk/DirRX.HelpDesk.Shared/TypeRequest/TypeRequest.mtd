@@ -45,9 +45,7 @@
       ]
     }
   ],
-  "FormViewUuid": "2720b990-d02a-449b-94b1-ba3fdf836f59",
   "IconResourcesKeys": [],
-  "ListViewUuid": "c4e37cc6-5d42-4560-9b08-78adcf66cc0c",
   "OperationsClass": "",
   "Properties": [
     {
@@ -59,23 +57,6 @@
       "IsQuickSearchAllowed": true,
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
-    },
-    {
-      "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
-      "NameGuid": "0005592b-fdbe-42f0-99a6-27a9223a7e78",
-      "Name": "Responsible",
-      "Code": "Responsible",
-      "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
-      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
-      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
-    },
-    {
-      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
-      "NameGuid": "22337b4a-d841-4212-bf1f-7bbab1db8cae",
-      "Name": "Note",
-      "Code": "Note",
-      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
-      "PreviousPropertyGuid": "0005592b-fdbe-42f0-99a6-27a9223a7e78"
     },
     {
       "$type": "Sungero.Metadata.EnumPropertyMetadata, Sungero.Metadata",
@@ -95,7 +76,15 @@
         }
       ],
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToEnumerationBinder",
-      "PreviousPropertyGuid": "22337b4a-d841-4212-bf1f-7bbab1db8cae"
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
+    },
+    {
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "d561f30f-4f42-440e-8cc1-5c031591c309",
+      "Name": "Code",
+      "Code": "Code",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+      "PreviousPropertyGuid": "c577ed2f-5145-40d4-8f6b-a85e3bad0191"
     }
   ],
   "PublicStructures": [],
