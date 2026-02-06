@@ -58,9 +58,7 @@
       ]
     }
   ],
-  "FormViewUuid": "2720b990-d02a-449b-94b1-ba3fdf836f59",
   "IconResourcesKeys": [],
-  "ListViewUuid": "c4e37cc6-5d42-4560-9b08-78adcf66cc0c",
   "OperationsClass": "",
   "Properties": [
     {
@@ -82,7 +80,7 @@
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
       "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
     },
- {
+    {
       "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
       "NameGuid": "22337b4a-d841-4212-bf1f-7bbab1db8cae",
       "Name": "Note",
